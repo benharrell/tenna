@@ -10,6 +10,8 @@ Open the dev container in vs code and launch with F5
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
+this is very much a work in progress 
+
 
 
 ## Goals
